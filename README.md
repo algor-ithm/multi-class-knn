@@ -56,8 +56,48 @@ The results section compares the predictions made by the from-scratch implementa
 
 ## Dependencies
 
+- Python 3.x
+- Jupyter Notebook
+- numpy
+- pandas
+- matplotlib
+- sklearn
+
+Install the dependencies using:
+```bash
+pip install numpy pandas matplotlib sklearn jupyter
+```
+
 ## Usage
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/k-nearest-multiclass.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd k-nearest-multiclass
+```
+
+3. Open the Jupyter Notebook
+
+```bash
+jupyter notebook kNN_multiclass.ipynb
+```
+
+4. Run the cells in the notebook to see the implementation and results. 
 
 ## Resources
 
+- **Dr. Hyuk Cho**: Provided guidance, resources, and code snippets for the project.
+- [k-Nearest Neighbors Algorithm in Python and scikit-learn](https://realpython.com/knn-python/)
+- [k-Nearest Neighbors From Scratch in Python](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
+- [Introduction to k-Nearest Neighbors: A powerful Maching Learning Algorithm](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26)
+
+
 ## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
