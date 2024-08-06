@@ -22,7 +22,7 @@ This project This project demonstrates the implementation of a k-nearest neighbo
 ## Project Structure
 
 * `kNN_multiclass.ipynb`: Jupyter Notebook containing the implementation of the multi-class kNN model from scratch and using `sklearn`
-* `iris.csv`: Dataset File
+* `iris.csv`: Dataset file
 * `README.md`: Project Documentation 
 
 ## Dataset
